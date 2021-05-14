@@ -4,8 +4,7 @@
 - 👯 I’m looking to collaborate on Java projects as an SDET or a Developer using the Spring Framework
 - 💬 Ask me about my projects and expriences if you want to know more about me
 
-JavaScript   6 mins          █████████████████▒░░░░░░░   69.71 % 
-HTML         2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manit97&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manit97&theme=onedark)](https://git.io/streak-stats)
 
