@@ -11,8 +11,6 @@
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=Agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-2496ED?style=flat&logo=Scrum&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0079BF.svg?&style=for-the-badge&logo=Trello&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white) 
 
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,7 +23,8 @@
 ![spring](https://img.shields.io/badge/SPRING%20BOOT-green.svg?&style=for-the-badge&logo=SPRINGBOOT&logoColor=white)
 ![spring](https://img.shields.io/badge/SPRING-green.svg?&style=for-the-badge&logo=SPRING&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/CUCUMBER-green.svg?&style=for-the-badge&logo=CUCUMBER&logoColor=white)
-![Selenium](https://img.shields.io/badge/Scala-DC322F.svg?&style=for-the-badge&logo=Scala&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-0079BF.svg?&style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white) 
 <!--
 **Manit97/Manit97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
