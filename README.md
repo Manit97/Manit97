@@ -5,7 +5,6 @@
 - 💬 Ask me about my projects and expriences if you want to know more about me
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manit97&theme=dark&show_icons=true) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manit97&theme=onedark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manit97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
