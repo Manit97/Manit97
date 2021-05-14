@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Java projects as an SDET or a Developer using the Spring Framework
 - 💬 Ask me about my projects and expriences if you want to know more about me
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manit97)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manit97)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manit97&theme=dark&show_icons=true)
 
 
 ### Technical Skills and Expirience 👋
