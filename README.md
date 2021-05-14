@@ -1,4 +1,4 @@
-### Hello World! Welcome to my Github 👋
+### Hello World! Welcome to my Github <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 - 🔭 I’m currently working on Java Devlopment and Java SDET training.
 - 🌱 I’m currently learning Web GUI Testing
 - 👯 I’m looking to collaborate on Java projects as an SDET or a Developer using the Spring Framework
@@ -13,7 +13,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
