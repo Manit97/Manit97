@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Web GUI Testing
 - 👯 I’m looking to collaborate on Java projects as an SDET or a Developer using the Spring Framework
 - 💬 Ask me about my projects and expriences if you want to know more about me
-- ⚡ Fun fact: ...
-- 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manit97)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manit97)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technical Skills and Expirience 👋
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=Agile&logoColor=white)
